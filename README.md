@@ -1,10 +1,8 @@
 # 15puzzle-shuffle
 
-１５パズル、パネルをスライドさせて元に戻すゲーム
+１５パズル、パネルをスライドさせて元に戻すゲーム、誰もが一度は、プレイしたことあるのではないでしょうか
 
-誰もが一度は、プレイしたことあるのではないでしょうか
-
-![puzzle image 01](image/wtch01.png)
+![puzzle image 01](image/watch01.png)
 
 単純なゲームですが、シャッフルするのは少し考える必要があります
 
@@ -20,7 +18,7 @@
 
 ・１６（空白）元の座標からの距離が偶数
 
-![puzzle image 01](image/wtch02.png)
+![puzzle image 01](image/watch02.png)
 
 # 使い方
 
